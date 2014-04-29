@@ -1,0 +1,20 @@
+Prototype:
+<request></request>
+<response></response>
+<command type="Web|shell">
+
+</command>
+
+Example:Web commands
+<request>Open google</request>
+<response>opening Google</response>
+<command type="Web">
+http://google.com/
+</command>
+
+Example:Social Commands
+<request>Open google</request>
+<response>opening Google</response>
+<command type="Web">
+http://google.com/
+</command>
